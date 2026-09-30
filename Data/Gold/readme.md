@@ -41,7 +41,7 @@ erDiagram
 
 La integridad referencial se ha comprobado: todas las claves de los hechos existen en sus dimensiones.
 
-`EmpresasContratistas` no tiene una clave común con el resto de tablas del modelo. Se relaciona a través de la capa ontológica (ver [`/Ontologia`](../../Ontologia)).
+`EmpresasContratistas` no tiene una clave común con el resto de tablas. En la [ontología](../../Ontologia) está definida como entidad (*Contratistas*), pero de momento sin relaciones.
 
 ## Notas
 
