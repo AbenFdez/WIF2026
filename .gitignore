@@ -1,0 +1,6 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+~$*
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
